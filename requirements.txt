@@ -1,0 +1,6 @@
+confluent-kafka
+pymongo
+requests
+numpy
+
+matplotlib
